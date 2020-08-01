@@ -4,5 +4,9 @@ public class HelloB20 {
         System.out.println("HelloB20, it is my pleasure to be with you!");
 
         //added a line
+
+        ///new line
+
+        System.out.println("hello second day git");
     }
 }
