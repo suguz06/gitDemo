@@ -6,5 +6,8 @@ public class Login {
 
 
         System.out.println("brand new class");
+
+        System.out.println("hi hi");
+
     }
 }
